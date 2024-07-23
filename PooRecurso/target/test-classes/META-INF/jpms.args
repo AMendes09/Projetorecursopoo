@@ -1,0 +1,4 @@
+--patch-module
+poorecurso=_
+--add-reads
+poorecurso=ALL-UNNAMED
